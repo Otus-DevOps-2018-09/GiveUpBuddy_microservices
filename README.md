@@ -1,0 +1,2 @@
+# GiveUpBuddy_microservices
+GiveUpBuddy microservices repository
